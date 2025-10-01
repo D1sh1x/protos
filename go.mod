@@ -1,4 +1,4 @@
-module protossso
+module github.com/D1sh1x/protos
 
 go 1.24.2
 
